@@ -1,7 +1,7 @@
 #include "http_server.h"
 #include <iostream>
 #include <boost/program_options.hpp>
-
+//getopt is down here
 namespace opt = boost::program_options;
 
 int main(int argc, char *argv[])
